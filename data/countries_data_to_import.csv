@@ -1,0 +1,243 @@
+"country","iso3","country_id"
+Japan,JPN,1
+Indonesia,IDN,2
+India,IND,3
+China,CHN,4
+Philippines,PHL,5
+Brazil,BRA,6
+"Korea, South",KOR,7
+Mexico,MEX,8
+Egypt,EGY,9
+Pakistan,PAK,10
+Bangladesh,BGD,11
+United States,USA,12
+Thailand,THA,13
+Russia,RUS,14
+Argentina,ARG,15
+Nigeria,NGA,16
+Vietnam,VNM,17
+Turkey,TUR,18
+Iran,IRN,19
+Congo (Kinshasa),COD,20
+United Kingdom,GBR,21
+France,FRA,22
+Peru,PER,23
+Angola,AGO,24
+Malaysia,MYS,25
+Colombia,COL,26
+Tanzania,TZA,27
+Sudan,SDN,28
+South Africa,ZAF,29
+Hong Kong,HKG,30
+Saudi Arabia,SAU,31
+Chile,CHL,32
+Burma,MMR,33
+Spain,ESP,34
+Iraq,IRQ,35
+Singapore,SGP,36
+Cameroon,CMR,37
+Ethiopia,ETH,38
+Canada,CAN,39
+Kenya,KEN,40
+Australia,AUS,41
+Côte d’Ivoire,CIV,42
+Germany,DEU,43
+Afghanistan,AFG,44
+Mali,MLI,45
+Jordan,JOR,46
+Ghana,GHA,47
+United Arab Emirates,ARE,48
+Venezuela,VEN,49
+Morocco,MAR,50
+Bolivia,BOL,51
+Uzbekistan,UZB,52
+Ecuador,ECU,53
+Burkina Faso,BFA,54
+Greece,GRC,55
+Guatemala,GTM,56
+Kuwait,KWT,57
+Ukraine,UKR,58
+"Korea, North",PRK,59
+Taiwan,TWN,60
+Italy,ITA,61
+Syria,SYR,62
+Congo (Brazzaville),COG,63
+Yemen,YEM,64
+Lebanon,LBN,65
+Romania,ROU,66
+Algeria,DZA,67
+Azerbaijan,AZE,68
+Kazakhstan,KAZ,69
+Austria,AUT,70
+Cambodia,KHM,71
+Somalia,SOM,72
+Cuba,CUB,73
+Poland,POL,74
+Belarus,BLR,75
+Netherlands,NLD,76
+Puerto Rico,PRI,77
+Zambia,ZMB,78
+Oman,OMN,79
+Uruguay,URY,80
+Hungary,HUN,81
+Uganda,UGA,82
+Guinea,GIN,83
+Tajikistan,TJK,84
+Zimbabwe,ZWE,85
+Costa Rica,CRI,86
+El Salvador,SLV,87
+Togo,TGO,88
+Niger,NER,89
+New Zealand,NZL,90
+Senegal,SEN,91
+Bulgaria,BGR,92
+Mongolia,MNG,93
+Czechia,CZE,94
+Denmark,DNK,95
+Finland,FIN,96
+Dominican Republic,DOM,97
+Madagascar,MDG,98
+Honduras,HND,99
+Belgium,BEL,100
+Serbia,SRB,101
+Qatar,QAT,102
+Libya,LBY,103
+Rwanda,RWA,104
+Kyrgyzstan,KGZ,105
+Burundi,BDI,106
+Mozambique,MOZ,107
+Georgia,GEO,108
+Armenia,ARM,109
+Mauritania,MRT,110
+Nicaragua,NIC,111
+Turkmenistan,TKM,112
+Liberia,LBR,113
+Sweden,SWE,114
+Malawi,MWI,115
+Haiti,HTI,116
+Eritrea,ERI,117
+Sierra Leone,SLE,118
+Laos,LAO,119
+Israel,ISR,120
+Central African Republic,CAF,121
+Panama,PAN,122
+Nepal,NPL,123
+Chad,TCD,124
+Gabon,GAB,125
+Croatia,HRV,126
+Sri Lanka,LKA,127
+Bahrain,BHR,128
+Norway,NOR,129
+Benin,BEN,130
+Moldova,MDA,131
+Estonia,EST,132
+Latvia,LVA,133
+Djibouti,DJI,134
+Tunisia,TUN,135
+Ireland,IRL,136
+Gaza Strip,XGZ,137
+Lithuania,LTU,138
+Jamaica,JAM,139
+Macau,MAC,140
+Portugal,PRT,141
+Guinea-Bissau,GNB,142
+Malta,MLT,143
+Paraguay,PRY,144
+Slovakia,SVK,145
+South Sudan,SSD,146
+Switzerland,CHE,147
+Namibia,NAM,148
+North Macedonia,MKD,149
+Albania,ALB,150
+"Gambia, The",GMB,151
+Lesotho,LSO,152
+Cyprus,CYP,153
+Reunion,REU,154
+Papua New Guinea,PNG,155
+Equatorial Guinea,GNQ,156
+Slovenia,SVN,157
+"Bahamas, The",BHS,158
+Martinique,MTQ,159
+Guadeloupe,GLP,160
+Bosnia and Herzegovina,BIH,161
+Suriname,SUR,162
+Botswana,BWA,163
+Guyana,GUY,164
+Timor-Leste,TLS,165
+Kosovo,XKS,166
+West Bank,XWB,167
+New Caledonia,NCL,168
+Montenegro,MNE,169
+Curaçao,CUW,170
+Mauritius,MUS,171
+Iceland,ISL,172
+Maldives,MDV,173
+Luxembourg,LUX,174
+French Polynesia,PYF,175
+Guam,GUM,176
+Bhutan,BTN,177
+Eswatini,SWZ,178
+Barbados,BRB,179
+Trinidad and Tobago,TTO,180
+Fiji,FJI,181
+Solomon Islands,SLB,182
+Sao Tome and Principe,STP,183
+Mayotte,MYT,184
+Cabo Verde,CPV,185
+Saint Lucia,LCA,186
+French Guiana,GUF,187
+Brunei,BRN,188
+Vanuatu,VUT,189
+Belize,BLZ,190
+Monaco,MCO,191
+Samoa,WSM,192
+Gibraltar,GIB,193
+Grenada,GRD,194
+Jersey,JEY,195
+Comoros,COM,196
+Marshall Islands,MHL,197
+Kiribati,KIR,198
+Aruba,ABW,199
+Isle of Man,IMN,200
+Cayman Islands,CYM,201
+Tonga,TON,202
+Seychelles,SYC,203
+Saint Vincent and the Grenadines,VCT,204
+Andorra,AND,205
+Antigua and Barbuda,ATG,206
+Guernsey,GGY,207
+Greenland,GRL,208
+Dominica,DMA,209
+"Micronesia, Federated States of",FSM,210
+Faroe Islands,FRO,211
+Saint Kitts and Nevis,KNA,212
+"Virgin Islands, British",VGB,213
+American Samoa,ASM,214
+San Marino,SMR,215
+"Bonaire, Sint Eustatius, and Saba",BES,216
+Palau,PLW,217
+Tuvalu,TUV,218
+Liechtenstein,LIE,219
+Saint Martin,MAF,220
+Saint Pierre and Miquelon,SPM,221
+Cook Islands,COK,222
+Turks and Caicos Islands,TCA,223
+Anguilla,AIA,224
+Northern Mariana Islands,MNP,225
+Saint Barthelemy,BLM,226
+Falkland Islands (Islas Malvinas),FLK,227
+Sint Maarten,SXM,228
+Svalbard,XSV,229
+Christmas Island,CXR,230
+Wallis and Futuna,WLF,231
+Bermuda,BMU,232
+Vatican City,VAT,233
+Nauru,NRU,234
+"Saint Helena, Ascension, and Tristan da Cunha",SHN,235
+Niue,NIU,236
+Montserrat,MSR,237
+Norfolk Island,NFK,238
+South Georgia and South Sandwich Islands,SGS,239
+Pitcairn Islands,PCN,240
+South Georgia And South Sandwich Islands,SGS,241
+U.S. Virgin Islands,VIR,242
